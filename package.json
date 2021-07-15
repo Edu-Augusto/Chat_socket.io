@@ -1,12 +1,12 @@
 {
   "name": "socket",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chat em real time com socket.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Eduardo Augusto Oliveira",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
